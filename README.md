@@ -1,0 +1,1 @@
+Implements the minmax algorithm in order to efficiently solve the spice puzzle from [RFD: Evil Dave](https://oldschool.runescape.wiki/w/Recipe_for_Disaster/Freeing_Evil_Dave) (Similar to the game Mastermind).
